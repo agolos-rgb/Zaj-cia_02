@@ -1,0 +1,23 @@
+Zajęcia 2. Cykl_zycia_systemu informatycznego
+
+a) 
+Etap 1. Planowanie 
+Etap 2. Analiza wymagań 
+Etap 3. Projektowanie 
+Etap 4. Implementacja (kodowanie) 
+Etap 5. Testowanie 
+Etap 6. Wdrożenie 
+Etap 7. Eksploatacja i utrzymanie 
+Etap 8. Wycofanie 
+
+b)Czy cykl życia procesu analizy danych w data science jest podobny 
+do etapów Cyklu życia systemu informatycznego? 
+
+Tak, oba cykle są ze sobą powiązane, ponieważ oba opierają się na 
+procesie obejmującym planowanie, analizę, realizację oraz wdrożenie i utrzymanie.
+
+Czy w obu cyklach życia kolejność etapów jest (ogólnie) analogiczna?
+
+Kolejność etapów jest analogiczna, gdyż oba procesy zaczynają się od 
+zdefiniowania celu i zgromadzenia potrzebnych zasobów, a kończą 
+na wdrożeniu i eksploatacji.
